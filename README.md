@@ -17,9 +17,7 @@ I tried to use webhose api but I ran into "No 'Access-Control-Allow-Origin' head
 
 
 
-
-
-![Alt text](https://res.cloudinary.com/shreyas/image/upload/v1537439844/Screen_Shot_2018-09-20_at_4.06.43_PM_tdk9ih.png"Optional Title")
+![Alt text](https://res.cloudinary.com/shreyas/image/upload/v1537439844/Screen_Shot_2018-09-20_at_4.06.43_PM_tdk9ih.png "Optional Title")
 
 
 
