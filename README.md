@@ -13,7 +13,9 @@ I tried to use webhose api but I ran into "No 'Access-Control-Allow-Origin' head
 
 ##Sceen shots of the app
 
-![Alt text](https://res.cloudinary.com/shreyas/image/upload/v1537439732/Screen_Shot_2018-09-20_at_4.04.55_PM_pcsb6s.png"Optional Title")
+![Alt text](https://res.cloudinary.com/shreyas/image/upload/v1537439732/Screen_Shot_2018-09-20_at_4.04.55_PM_pcsb6s.png "Optional Title")
+
+
 
 
 
